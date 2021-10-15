@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./02-html.css">
+  <base target="_blank">
+</head>
+<body>
+<form action="" method="get" name="我的信息">
+  <h3>我的信息</h3>
+  <img src="zj.jpeg" alt="" height="150px">
+  <lable for="username">姓名</lable>
+  <input type="text" id="username"  placeholder="请输入你的个人名字" name="username"><br>
+  性别 男<input type="radio" name="sex" checked> 女<input type="radio" name="sex"><br>
+  <label for="hobby">爱好</label>
+  <select name="hobby" id="hobby">
+    <option value="coding" selected>编程</option>
+    <option value="strawberry">学习</option>
+    <option value="work">工作</option>
+  </select><br>
+  <textarea name="comment" id="comment" cols="30" rows="5" placeholder="请添加个人描述"></textarea><br>
+</form>
+<h3>个人推荐的电影</h3>
+<video width="320" height="240" controls>
+  <source src="./vedio.mp4" type="video/mp4">
+  您的浏览器不支持Video标签。
+</video>
+<table border="1px" cellpadding="10" cellspacing="0">
+  <thead>
+  <tr>
+    <th></th>
+    <th>恐怖</th>
+    <th>爱情</th>
+    <th>喜剧</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td>强烈推荐</td>
+    <td>僵尸叔叔</td>
+    <td colspan="2">泰坦尼克号</td>
+  </tr>
+  <tr>
+    <td>一般推荐</td>
+    <td rowspan="2">京城81号</td>
+    <td>我的少女时代</td>
+    <td>缝纫机乐队</td>
+  </tr>
+  <tr>
+    <td>不推荐</td>
+    <td>一吻定情</td>
+    <td>哈哈哈</td>
+  </tr>
+  </tbody>
+</table>
+<h3>个人技术地址</h3>
+<dl>
+  <dd><a href="https://github.com/">gitHub地址</a></dd>
+  <dd><a href="https://www.csdn.net/">csdn</a></dd>
+  <dd><a href="https://juejin.cn/">juejin</a></dd>
+</dl>
+</body>
+</html>
