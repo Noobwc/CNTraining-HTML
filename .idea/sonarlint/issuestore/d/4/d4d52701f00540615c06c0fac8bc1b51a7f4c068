@@ -1,0 +1,10 @@
+
+MWeb:TableWithoutCaptionCheck" Add a description to this table.(£ì±›úÿÿÿÿ
+C	Web:S1827")Remove this deprecated "align" attribute.(£ì±›úÿÿÿÿ
+I	Web:S1827"/Remove this deprecated "cellpadding" attribute.(£ì±›úÿÿÿÿ
+I	Web:S1827"/Remove this deprecated "cellspacing" attribute.(£ì±›úÿÿÿÿ
+g Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(õæ¿Þ
+g Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(î×ƒÜ
+g Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(ÿ–ïâ
+NWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(³ð²àýÿÿÿÿ
+NWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(æËÏäúÿÿÿÿ
