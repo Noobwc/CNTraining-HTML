@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20394e89-d6e3-4763-8b95-9ae4aeeb3b80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/homework/03-css/03-css-wangchao.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/03-css/03-css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/03-css/images/architect.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/03-css/images/house2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/03-css/images/house3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/03-css/images/house4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/03-css/images/house5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/03-css/images/team1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/03-css/images/team2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/03-css/images/team3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/03-css/images/team4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/04-css/04-css-wangchao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/04-css/04-css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/04-css/images/architect.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/04-css/images/house2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/04-css/images/house3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/04-css/images/house4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/04-css/images/house5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/04-css/images/team1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/04-css/images/team2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/04-css/images/team3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/04-css/images/team4.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -52,14 +52,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework/03-css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework/04-css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homework/04-css" />
       <recent name="$PROJECT_DIR$/homework/03-css" />
       <recent name="$PROJECT_DIR$/homework/02-html" />
     </key>
@@ -80,7 +81,8 @@
       <workItem from="1634100448422" duration="2976000" />
       <workItem from="1634122987089" duration="4768000" />
       <workItem from="1634302653239" duration="2674000" />
-      <workItem from="1634640108209" duration="8176000" />
+      <workItem from="1634640108209" duration="11333000" />
+      <workItem from="1635133521583" duration="5991000" />
     </task>
     <servers />
   </component>
