@@ -2,17 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20394e89-d6e3-4763-8b95-9ae4aeeb3b80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/homework/04-css/04-css-wangchao.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/04-css/04-css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/04-css/images/architect.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/04-css/images/house2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/04-css/images/house3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/04-css/images/house4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/04-css/images/house5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/04-css/images/team1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/04-css/images/team2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/04-css/images/team3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/04-css/images/team4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/907bd18e4dcbad9535f32dc64619e5645b9f62c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/937c8315d9f1b2290e20d263002aae80ad60b027" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9b39ebf5671661ea2b760f3d5e3f2e156851c349" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b461258c4f2f3b04a6fa9f0735bbbebe1f66beb6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-chapter-three/examples/2d-transform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-chapter-three/examples/3d-transform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-chapter-three/examples/animation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-chapter-three/examples/assets/architect.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-chapter-three/examples/assets/chick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-chapter-three/examples/assets/dog.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-chapter-three/examples/border/border-radius.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-chapter-three/examples/border/box-shadow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-chapter-three/examples/border/css-border.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-chapter-three/examples/css-background.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-chapter-three/examples/text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-chapter-three/examples/transition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-chapter-three/homework/homework.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-chapter-three/homework/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css-chapter-three/第一节课作业问题.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -82,7 +90,8 @@
       <workItem from="1634122987089" duration="4768000" />
       <workItem from="1634302653239" duration="2674000" />
       <workItem from="1634640108209" duration="11333000" />
-      <workItem from="1635133521583" duration="5991000" />
+      <workItem from="1635133521583" duration="6999000" />
+      <workItem from="1635759981015" duration="3395000" />
     </task>
     <servers />
   </component>
